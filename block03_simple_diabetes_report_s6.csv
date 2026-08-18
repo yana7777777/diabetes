@@ -1,0 +1,6 @@
+metric,value
+rows,442.0
+baseline_mae,65.76
+simple_s6_mae,63.61
+mae_improvement,2.16
+s6_target_corr,0.382
